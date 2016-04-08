@@ -1,8 +1,8 @@
-/*Hola Mundo
-*Facundo Marin
-*158.829-1
-*K1051
-*442016
+/*Hola Mundo!
+Marin Facundo
+158.829-1
+K1051
+442016
 */
 #include <iostream>
 int main() {
